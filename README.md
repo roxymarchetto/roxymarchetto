@@ -1,16 +1,32 @@
 # 💼 Roxana Marchetto - Experta en Administración y Finanzas 🏢
 
+Hola Mundo!!!
 ¡Bienvenidos a mi repositorio de GitHub! Aquí encontrarás proyectos y ejemplos relacionados con mi experiencia profesional en **administración de empresas**, **finanzas** y **tecnologías de la información**. 🌟
 
 ## 🎯 Sobre mí
 
-Magister en Dirección de Empresas y Contadora Pública, con más de 20 años de experiencia en:
+Magister en Dirección de Empresas y Contadora Pública, con experiencia en:
 
-- 📊 **Planeación Estratégica**: Presupuestos, análisis de desviaciones y propuestas de mejora.
-- 💻 **Tecnología y Sistemas**: Implementación de software (ERP, CRM) y plataformas online.
-- 📈 **Data Analytics**: Análisis de KPIs y reportes en **Power BI**.
-- 📂 **Gestión Financiera**: Cash Flow, conciliaciones bancarias, auditorías internas y externas.
-- 🔄 **Reingeniería de Procesos**: Optimización de costos y mejora continua.
+## 📊 **Planeación Estratégica de Alto Impacto**
+- Lidero la **optimización de recursos** y **alineación de objetivos organizacionales** para impulsar el crecimiento sostenible.
+- Diseño y gestiono **presupuestos estratégicos**, realizando un seguimiento de **métricas clave** para garantizar decisiones informadas que maximicen el rendimiento.
+
+## 💻 **Transformación Digital y Soluciones Tecnológicas**
+- Impulso la **implementación de soluciones tecnológicas avanzadas** (ERP, CRM) que mejoran la eficiencia operativa y la toma de decisiones.
+- Desarrollo y gestiono **plataformas online personalizadas** que potencian la automatización y la integración de procesos dentro de la organización.
+
+## 📈 **Análisis de Datos y Business Intelligence**
+- Utilizo herramientas de **Data Analytics** y **Power BI** para transformar datos en **informes estratégicos** que facilitan la toma de decisiones en tiempo real.
+- Monitoreo de **KPIs** y **tendencias del mercado** para identificar oportunidades de mejora continua y maximizar la rentabilidad.
+
+## 📂 **Gestión Financiera y Control de Recursos**
+- Gestiono y optimizo el **cash flow** mediante un análisis exhaustivo de ingresos y egresos, asegurando la **salud financiera** de la organización.
+- Realizo auditorías internas y externas, garantizando la transparencia y el cumplimiento de las normativas, además de liderar la **gestión de presupuestos y costos** para mejorar la rentabilidad.
+
+## 🔄 **Reingeniería de Procesos y Mejora Continua**
+- Lidero proyectos de **reingeniería de procesos**, redefiniendo flujos de trabajo para **optimizar la eficiencia operativa** y reducir costos.
+- Implemento un ciclo de **mejora continua** que permite a la organización adaptarse rápidamente a cambios del mercado, manteniendo la competitividad y excelencia operativa.
+
 
 ## 🛠️ Herramientas y Tecnologías
 
