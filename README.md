@@ -31,22 +31,25 @@ Magister en Dirección de Empresas y Contadora Pública, con experiencia en:
 ## 🛠️ Herramientas y Tecnologías
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ## 🚀 Proyectos Destacados
 
-1. **Sistema de Presupuestos Online**: Automatización de presupuestos para equipos e insumos, logrando un 30% de eficiencia en tiempos.
-2. **Implementación ERP/CRM**: Lideré la migración a plataformas modernas en diversas organizaciones, optimizando flujos de trabajo.
-3. **Informes y Dashboards**: Desarrollo de tableros interactivos en Power BI para la toma de decisiones estratégicas.
+1. **Sistema de Presupuestos Online**: Automatización de presupuestos para equipos e insumos, logrando un 30% de eficiencia en tiempos, Portada Salud año 2020, BuildBuy año 2024**(https://grupoportada.com.ar/)**.
+2. **Implementación ERP/CRM**: Lideré la migración a plataformas modernas en diversas organizaciones, optimizando flujos de trabajo, Kunan año 2021 **(Software para automatizar la rendición de internaciones domiciliarias a prestadores de PAMI.https://kunan.com.ar/ridsoft/)**.
+3. **Informes y Dashboards**: Desarrollo de tableros interactivos en **Power BI** para la toma de decisiones estratégicas, año 2019.
+4. **Automatización Gestión de Cobranzas**: Desarrollo tableros interactivos para Municipalidad de Villa María,año 2007.
+5. **Automatización Liquidación de Impuestos**: Desarrollo para Naranja X,año 2004.
 
 ## 👩‍🏫 Docencia
 
-Docente universitaria en asignaturas como **Estadística**, **Tecnologías de Gestión** y **Sistemas de Gestión**.
+- Docente universitaria en asignaturas como **Estadística**, **Tecnologías de Gestión** y **Sistemas de Gestión**.
+- Ministerio de Ciencia, Tecnología e Innovación; Sistema Nacional de Repositorios Digitales: **(https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/PAUCC_3fb9dcd39983cdd6a54e920e567ef07c)**.
 
 ---
 
