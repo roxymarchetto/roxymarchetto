@@ -1,7 +1,9 @@
 # 💼 Roxana Marchetto - Experta en Administración y Finanzas 🏢
 
 Hola Mundo!!!
-¡Bienvenidos a mi repositorio de GitHub! Aquí encontrarás proyectos y ejemplos relacionados con mi experiencia profesional en **administración de empresas**, **finanzas** y **tecnologías de la información**. 🌟
+¡Bienvenidos a mi repositorio de GitHub! Aquí encontrarás proyectos y ejemplos relacionados con mi experiencia profesional en **administración de empresas**, **finanzas** y **tecnologías de la información**. 
+
+Soy una profesional apasionada por la gestión estratégica, con experiencia liderando equipos en la implementación de proyectos clave, reingeniería de procesos y soluciones tecnológicas. He trabajado en IT implementando sistemas como RidSoft Kunan, gestionando sistematización de liquidación de impuestos en Naranja X y optimizando cobranzas en la Municipalidad de Villa María. Además, desarrollo tableros de KPI en Power BI, implemento ERP y plataformas de compras online, siempre con un enfoque en la innovación, el liderazgo colaborativo y el cumplimiento de objetivos estratégicos. 🌟
 
 ## 🎯 Sobre mí
 
