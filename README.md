@@ -1,4 +1,4 @@
-# 💼 Roxana Marchetto - Experta en Administración y Finanzas 🏢
+# 💼 Roxana Marchetto 🏢
 
 Hola Mundo!!!
 ¡Bienvenidos a mi repositorio de GitHub! Aquí encontrarás proyectos y ejemplos relacionados con mi experiencia profesional en **administración de empresas**, **finanzas** y **tecnologías de la información**. 
@@ -7,7 +7,7 @@ Soy una profesional apasionada por la gestión estratégica, con experiencia lid
 
 ## 🎯 Sobre mí
 
-Magister en Dirección de Empresas y Contadora Pública, con experiencia en:
+Magister en Dirección de Empresas, Contadora Pública, Full Stack Developer, con experiencia en:
 
 ## 📊 **Planeación Estratégica de Alto Impacto**
 - Lidero la **optimización de recursos** y **alineación de objetivos organizacionales** para impulsar el crecimiento sostenible.
