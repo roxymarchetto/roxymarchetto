@@ -7,7 +7,7 @@ Soy una profesional apasionada por la gestión estratégica, con experiencia lid
 
 ## 🎯 Sobre mí
 
-It Project Mnajer, MBA en Dirección de Empresas, Contadora Pública, Full Stack Developer, con experiencia en:
+It Project Manager, MBA en Dirección de Empresas, Contadora Pública, Full Stack Developer, con experiencia en:
 
 ## 📊 **Planeación Estratégica de Alto Impacto**
 - Lidero la **optimización de recursos** y **alineación de objetivos organizacionales** para impulsar el crecimiento sostenible.
