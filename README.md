@@ -54,7 +54,7 @@ It Project Manager, MBA en Dirección de Empresas, Contadora Pública, Full Stac
 ## 👩‍🏫 Docencia
 
 - Docente universitaria en asignaturas como **Estadística**, **Tecnologías de la Información** y **Sistemas de Gestión**.
-- Ministerio de Ciencia, Tecnología e Innovación; Sistema Nacional de Repositorios Digitales: **(https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/PAUCC_3fb9dcd39983cdd6a54e920e567ef07c)**.
+- Ministerio de Ciencia, Tecnología e Innovación; Sistema Nacional de Repositorios Digitales: **Repositorio MINCYT**.
 
 ---
 
