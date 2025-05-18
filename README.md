@@ -44,7 +44,7 @@ It Project Manager, MBA en Dirección de Empresas, Contadora Pública, Full Stac
 
 ## 🚀 Proyectos Destacados
 
-- **IT Project Manager in BeClever**: Implementaciones para Gpat (Financiera Banco Patagonia-Chevrolet)- OLX Chile (Masterd Mind), Visa, Cabal, Zurich.
+- **IT Project Manager in BeClever**: Implementaciones para Gpat (Financiera Banco Patagonia-Chevrolet)- OLX Chile (Masterd Mind), Visa, Cabal, Zurich **(https://beclevercorp.com/).
 - **Sistema de Presupuestos Online**: Automatización de presupuestos para equipos e insumos, logrando un 30% de eficiencia en tiempos, Portada Salud año 2020, BuildBuy año 2024**(https://grupoportada.com.ar/).
 - **Implementación ERP/CRM**: Lideré la migración a plataformas modernas en diversas organizaciones, optimizando flujos de trabajo, Kunan año 2021 **(Software para automatizar la rendición de internaciones domiciliarias a prestadores de PAMI.https://kunan.com.ar/ridsoft/)**.
 - **Informes y Dashboards**: Desarrollo de tableros interactivos en **Power BI** para la toma de decisiones estratégicas, año 2019.
